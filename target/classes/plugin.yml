@@ -1,0 +1,5 @@
+name: BukkitWorld
+version: ${project.version}
+main: com.github.hsnyder1.BukkitWorld.BukkitWorld
+load: startup
+description: ${project.description}
